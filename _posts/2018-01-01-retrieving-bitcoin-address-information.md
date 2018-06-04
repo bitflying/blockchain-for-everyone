@@ -3,6 +3,7 @@ layout: post
 title:  "如何检索一个比特币地址的相关信息"
 date:   2018-01-01
 tags:  [比特币, 比特币地址, 区块链]
+description: Retrieving bitcoin-address based information
 ---
 作为最早出现的加密币，它有着公共区块链的最重要的两个特性：私密性和公开透明性。
 * 私密性：在比特币网络中，不包含任何用户的个人信息，比特币只与地址相关联，所以仅凭地址你是无法知道比特币的拥有者。

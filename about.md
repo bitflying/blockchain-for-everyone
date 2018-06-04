@@ -1,21 +1,20 @@
 ---
 layout: page
 current: about
-title: Hey there!
+title: 关于
 ---
 
-![Me leading a workshop at Adobe MAX]({{ site.baseurl }}/images/James_MAX.jpg)
+### 关于作者
 
-### About the Author
+我是Bitflying。
+曾经的思科认证的网络培训专家(CCSI), 自从互联网诞生之初，就开始喜欢各种网路技术和应用，挚爱TCP/IP技术。
 
-My name is James Williamson. I'm a Senior Author at lynda.com and I've been writing and teaching web design and development for just over 15 years or so. I love what I do and hope you find this blog useful. If you see me out at a conference or event please say hello. My favorite form of communication is Twitter, where you'll find me ranting 140 characters at a time at [@bitflying](https://twitter.com/bitflying "my twitter profile"). I've been blessed to work in an industry that I love and want to thank all of you for your support over the years.
+喜欢各种Unix操作系统，包括Linux的各种版本(Redhat, Ubuntu)、macOS、iOS和Android，以及古老的SunOS和Solaries。
 
-I live in a small town in South Carolina just south of Charlotte, where my wonderful wife Holly and I are currently raising three amazing daughters.
+iOS和macOS的热爱者，开发多款iOS App和Android App。在早期，曾经使用基于Linux操作系统的ToolChain开发iOS App。开发一款基于Sony PSP的视频播放器。
 
-### About this Blog
+热爱区块链技术：喜欢技术精致、功能单一和去中心化的比特币，也喜欢技术复杂和功能强大的以太坊。
 
-A version of this blog was originally created as a part of the [lynda.com](http://www.lynda.com) course **Jekyll for Web Designers**. When I decided to reactivate my long dormant personal blog I decided to adapt the one I had created for the course. In the business we call that  "eating your own dog food." It's a terrible phrase and have no idea why we use it. Currently I build the blog using Jekyll and host it using Github pages, although I'm considering a move to AWS.
+### 关于本博客
 
-If you like it, feel free to download it from my Github repository and use it as you see fit. Just don't charge for it, obviously. I designed the blog as a teaching tool first and foremost, but it is designed to be simple, clean, accessible, and responsive. I used [HTML5 Boilerplate](https://html5boilerplate.com/ "html5 boilerplate") and [Normalize.css](http://necolas.github.io/normalize.css/ "normalize.css") as my starting points and narrowed them down to what I considered to be the essentials. The HTML focuses on semantics and is built with accessibility in mind. The CSS is not based on any framework, and only contains what the blog needs, there are no layout grids or extra UI classes. I don't use SASS, but Jekyll processes SASS automatically, so it's a snap to add it if you'd like. The entire blog was built to be customized as you wish, and not force you into any conventions or frameworks. The only outside dependencies are two fonts that I am loading from the Google Fonts API. I use the Web Font Loading script to assist loading the fonts, but I don't do anything fancy like asynchronous loading mainly just to tick off [Zach Leatherman](https://www.zachleat.com/web/ "Zach’s website").
-
-
+本博客主要发表一些本人撰写的，对区块链技术的认识的文章，包括，区块链技术的学习心得、技术观点和手动实验例子。希望能够帮助自己和一些对区块链技术感兴趣的朋友。
