@@ -1,0 +1,24 @@
+# Site settings
+title: Blockchain for Everyone
+description: "帮助每一个人了解和学习区块链和比特币知识."
+baseurl: "/blockchain-for-everyone"
+url: "https://bitflying.github.io/blockchain-for-everyone"
+tagline: "帮助每一个人了解、学习区块链和比特币知识"
+author: "bitflying"
+#google_analytics: UA—102607779-1
+
+# Build settings
+#gems: [jekyll-paginate]
+highlighter: rouge
+markdown: kramdown
+kramdown:
+    auto_ids: false
+paginate: 4
+paginate_path: '/blog/page:num/'
+permalink: /blog/:title
+#include: 
+#    - user_images
+ 
+# Plugins
+plugins_dir: [jekyll-paginate]
+
