@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ICO简介: (一) ICO是什么？"
-date:   2018-02-01
+date:   2018-06-01
 tags:  [加密币, ICO]
 description: Introduction to Initial Coin Offering (1)：What is ICO
 ---
